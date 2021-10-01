@@ -46,7 +46,7 @@ public class MainActivity extends Activity implements ShakeDetector.OnShakeListe
 
         switch (res) {
             case 0:
-                text.setText(R.string.bad);
+                text.setText(R.string.lusck);
                 break;
             case 1:
                 text.setText(R.string.luck);
