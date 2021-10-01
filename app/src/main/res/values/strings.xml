@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic Ball</string>
+    <string name="Greeting">Tap me!</string>
+    <string name="stub">TODO:\ntap</string>
+    <string name="bad">Alhamdulillah</string>
+    <string name="luck">sadfverfgergergerwh</string>
+</resources>
