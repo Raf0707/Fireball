@@ -7,7 +7,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="100dp"
+        android:layout_margin="0dp"
         android:layout_centerHorizontal="true"
         android:src="@drawable/magicball"
         android:onClick="tap"
